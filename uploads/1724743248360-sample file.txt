@@ -1,0 +1,6 @@
+sample for resume
+
+name,
+email,
+phone,
+resume
